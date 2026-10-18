@@ -7,7 +7,7 @@ Zdroj: [hodina 5](../hodiny/hodina5.md)
 - Je to vlastnosť, od ktorej závisia straty na vedeniach zariadenia.
 - Každý materiál má svoj odpor.
 - Merný odpor sa zapisuje $\rho$, grécke písmeno.
-- Jednotka je $\Omega \cdot \mathrm{m}$, óm krát meter. Óm je grécke písmeno omega.
+- Jednotka je $\Omega \cdot \mathrm{m}$, ohm krát meter. Znak $\Omega$ je veľké grécke písmeno omega.
 - Merný odpor je iný preto, lebo má inú štruktúru a zloženie.
 - Od zloženia a štruktúry materiálu závisia jeho schopnosti.
 
