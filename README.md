@@ -14,6 +14,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Hodina 2: Elektrický náboj, napätie a prúd](hodiny/hodina2.md)
 - [Hodina 3: Elektrický obvod](hodiny/hodina3.md)
 - [Hodina 4: Prúdová hustota a elektrický prúd](hodiny/hodina4.md)
+- [Hodina 5: Merný odpor, merná vodivosť](hodiny/hodina5.md)
 
 ## Učivo
 
@@ -22,6 +23,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Napätie a prúd](ucivo/03-napatie-a-prud.md)
 - [Elektrický obvod](ucivo/04-elektricky-obvod.md)
 - [Prúdová hustota](ucivo/05-prudova-hustota.md)
+- [Merný odpor a merná vodivosť](ucivo/06-merny-odpor-a-merna-vodivost.md)
 
 Nový neupravený súbor pridaj do koreňa repozitára a požiadaj agenta, aby spracoval novú hodinu podľa [AGENTS.md](AGENTS.md). Agent najprv uloží nezmenenú zálohu, potom pripraví verziu v `hodiny/` a doplní `ucivo/`.
 
