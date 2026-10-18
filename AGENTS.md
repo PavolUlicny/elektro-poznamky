@@ -11,6 +11,14 @@ Toto repo uchováva zápisky zo školy. Najvyššou prioritou je vernosť tomu, 
 - `ucivo/` obsahuje priebežne usporiadané učivo podľa tém. Každý fakt tu musí mať pôvod v `hodiny/`. Súbory odkazujú na zdrojovú hodinu.
 - `obrazky/hodinaN/` obsahuje obrázky a náčrty na vloženie do príslušnej hodiny a tém učiva. Ich nedotknuté originály sa zálohujú do `povodne/obrazky/hodinaN/`.
 - `NEJASNOSTI.md` zaznamenáva miesta, ktoré môžu byť preklepom, nezrozumiteľné alebo vecne nesprávne. Tento súbor nie je opravou poznámok.
+- `priklady/` v koreni repozitára obsahuje samostatné príkladové textové súbory k učivu. Nie sú súčasťou poznámok a uchovávajú sa bez zmien.
+
+## Samostatné príkladové textové súbory
+
+- Dodané príkladové textové súbory, napríklad `priklady_hodina6.txt`, ukladaj iba do `priklady/` v koreni repozitára pod pôvodným názvom. Skopíruj ich priamo zo vstupu a over zhodu SHA-256. Pri kolízii názvu existujúci súbor neprepisuj, pre nový vstup zvoľ jednoznačný názov.
+- Obsah ponechaj bajtovo nezmenený. Neopravuj text, diakritiku, preklepy, vzorce, výpočty ani formátovanie. Nedopĺňaj vysvetlenia či riešenia.
+- Tieto súbory ani ich obsah nepridávaj do `povodne/`, `hodiny/`, `ucivo/` ani `NEJASNOSTI.md`. Nespracúvaj ich ako poznámky. Postup pri novej hodine a pravidlá pre matematický zápis sa na ne nevzťahujú.
+- Existujúce súbory v `priklady/` neupravuj ani nemaž. Pravidlo sa týka samostatných príkladových súborov, príklady zapísané priamo v poznámkach naďalej spracúvaj podľa pravidiel pre poznámky.
 
 ## Úplná nedotknuteľnosť `povodne/`
 

@@ -1,0 +1,20 @@
+vypocitajte prud vo vodici s priemerom 0.06cm, prudova hustota 3A/mm^(2)
+
+J = I/S takze I = J*S
+d = 0.6 mm
+s = PI*r^(2)
+r = 0.3mm
+S = PI * (0.3)^(2) = 0.283 mm^(2)
+I = J*S = 3*0.283 = 0.848A
+
+vypocitajte aky prud preteka kablom ktory ma obdlznikovi prierez s rozmerom 25mm x 40mm a prudova hustota 1.2A/mm^(2)
+
+J = 1.2 A/mm^(2)
+S = 25 * 40 = 1000mm^(2)
+I = J*S = 1.2*1000 = 1200A
+
+zakladny vzorec U = I * R
+
+napatie = prud * odpor
+
+Preco? lebo

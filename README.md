@@ -7,6 +7,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 | [`povodne/`](povodne/) | Bajtovo nezmenené zálohy vstupných súborov |
 | [`hodiny/`](hodiny/) | Jednotlivé hodiny s opravenou diakritikou a zvýraznením |
 | [`ucivo/`](ucivo/) | Učivo rozdelené podľa tém, s odkazmi na hodiny |
+| [`priklady/`](priklady/) | Samostatné príkladové textové súbory, uložené bez zmien mimo poznámok |
 
 ## Hodiny
 
@@ -28,5 +29,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Ohmov zákon a elektrická vodivosť](ucivo/07-ohmov-zakon-a-elektricka-vodivost.md)
 
 Nový neupravený súbor pridaj do koreňa repozitára a požiadaj agenta, aby spracoval novú hodinu podľa [AGENTS.md](AGENTS.md). Agent najprv uloží nezmenenú zálohu, potom pripraví verziu v `hodiny/` a doplní `ucivo/`.
+
+Samostatné príkladové textové súbory patria iba do `priklady/` v koreni repozitára. Ich obsah zostáva nezmenený a nezapracúva sa do poznámok ani učiva.
 
 Zjavné nejasnosti pôvodných zápiskov sú uvedené v [NEJASNOSTI.md](NEJASNOSTI.md). Text učiva ich neopravuje bez rozhodnutia autora.
