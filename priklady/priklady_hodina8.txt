@@ -1,0 +1,4 @@
+vypocitajte odpor vodica, ktorym prechadza prud 25 miliamperov pri napeti 175 voltov
+
+175 / 0.025 = 7000 ohmov
+U   /  I    = R

@@ -14,3 +14,4 @@ Tieto poznámky zachovávajú pôvodný obsah. Nasledujúce zápisy si môže au
 - [Hodina 7](hodiny/hodina7.md): zápisy "u kovou" a "teplotný súčitinel" môžu byť preklepy. Sú zachované, keďže nejde iba o opravu diakritiky.
 - [Hodina 7](hodiny/hodina7.md): všeobecné tvrdenie "u kovou odpor s teplotou rastie, u nekovov klesá" neuvádza podmienky platnosti. Treba ho preveriť, pôvodné znenie zostáva zachované.
 - [Hodina 7](hodiny/hodina7.md): pri supravodivosti treba preveriť teplotný údaj "cca. okolo -273C (0K)", tvrdenie "ak sa teplota zvýši, prestane to fungovať" aj uvedenie bóru ako typického materiálu. Poznámky tieto tvrdenia zachovávajú bez vecných opráv.
+- [Hodina 8](hodiny/hodina8.md): všeobecné tvrdenie "teplo sú straty" treba preveriť aj v súvislosti s podobným tvrdením v hodine 4. Pôvodné znenie zostáva zachované.
