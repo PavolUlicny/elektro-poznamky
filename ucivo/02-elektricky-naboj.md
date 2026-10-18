@@ -6,7 +6,7 @@ Zdroj: [hodina 2](../hodiny/hodina2.md)
 
 - Náboj je vlastnosťou častice.
 - Častice môžu mať **kladný** alebo **záporný** náboj.
-- Nedá as ani vytvoriť, ani zničiť.
+- Nedá sa ani vytvoriť, ani zničiť.
 - Ak má teleso viac záporných nábojov, je **záporne nabité**.
 - Ak má viac kladných nábojov, je **kladne nabité**.
 - Ak je v častici rovnaký počet kladných aj záporných elektrónov, častica je **neutrálna**.
