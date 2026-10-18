@@ -1,6 +1,6 @@
 # Napätie a prúd
 
-Zdroj: [hodina 2](../hodiny/hodina2.md)
+Zdroje: [hodina 2](../hodiny/hodina2.md), [hodina 4](../hodiny/hodina4.md)
 
 ## Napätie (Voltage)
 
@@ -13,3 +13,14 @@ Zdroj: [hodina 2](../hodiny/hodina2.md)
 - Je tok elektrónov.
 - Označuje sa I.
 - Jednotka je 1 Ampér (1A).
+
+### Elektrický prúd podľa hodiny 4
+
+Zdroj: [hodina 4](../hodiny/hodina4.md)
+
+- Elektrický prúd vzniká pohybom náboja vo vodiči.
+- Je to veľkosť náboja $Q$, ktorý prejde prierezom vodiča za určitý čas.
+
+$$
+I = \frac{Q}{t}
+$$
