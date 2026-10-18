@@ -10,9 +10,9 @@ Zdroj: [hodina 2](../hodiny/hodina2.md)
 - Ak má teleso viac záporných nábojov, je **záporne nabité**.
 - Ak má viac kladných nábojov, je **kladne nabité**.
 - Ak je v častici rovnaký počet kladných aj záporných elektrónov, častica je **neutrálna**.
-- Náboj sa označuje písmenom **Q**.
-- Jednotkou náboja je **1 Coulomb (1C)**.
-- **Elementárny náboj** je **1.602 * 10^(-19) C**.
+- Náboj sa označuje písmenom **$Q$**.
+- Jednotkou náboja je **$1\,\mathrm{Coulomb}$ ($1\,\mathrm{C}$)**.
+- **Elementárny náboj** je **$1.602 \cdot 10^{-19}\,\mathrm{C}$**.
 
 ## Pôsobenie a prenos náboja
 

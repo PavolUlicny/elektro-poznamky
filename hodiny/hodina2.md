@@ -6,9 +6,9 @@
 - ak má teleso viac záporných nábojov, je **záporne nabité**
 - ak má viac kladných nábojov, je **kladne nabité**
 - ak je v častici rovnaký počet kladných aj záporných elektrónov, častica je **neutrálna**
-- náboj sa označuje písmenom **Q**
-- jednotkou náboja je **1 Coulomb (1C)**
-- **elementárny náboj** je **1.602 * 10^(-19) C**
+- náboj sa označuje písmenom **$Q$**
+- jednotkou náboja je **$1\,\mathrm{Coulomb}$ ($1\,\mathrm{C}$)**
+- **elementárny náboj** je **$1.602 \cdot 10^{-19}\,\mathrm{C}$**
 - dva súhlasné náboje sa odpudzujú
 - dva nesúhlasné náboje sa priťahujú
 - elektricky nabité teleso priťahuje elektricky nenabité teleso
@@ -21,11 +21,11 @@
 ## Napätie (Voltage)
 
 - je rozdiel potenciálov 
-- označuje sa U
-- jednotka je 1 Volt (1V)
+- označuje sa $U$
+- jednotka je $1\,\mathrm{Volt}$ ($1\,\mathrm{V}$)
 
 ## Prúd (Current)
 
 - je tok elektrónov
-- označuje sa I
-- jednotka je 1 Ampér (1A)
+- označuje sa $I$
+- jednotka je $1\,\mathrm{Ampér}$ ($1\,\mathrm{A}$)

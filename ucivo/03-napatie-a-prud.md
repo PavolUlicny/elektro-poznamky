@@ -5,14 +5,14 @@ Zdroje: [hodina 2](../hodiny/hodina2.md), [hodina 4](../hodiny/hodina4.md)
 ## Napätie (Voltage)
 
 - Je rozdiel potenciálov.
-- Označuje sa U.
-- Jednotka je 1 Volt (1V).
+- Označuje sa $U$.
+- Jednotka je $1\,\mathrm{Volt}$ ($1\,\mathrm{V}$).
 
 ## Prúd (Current)
 
 - Je tok elektrónov.
-- Označuje sa I.
-- Jednotka je 1 Ampér (1A).
+- Označuje sa $I$.
+- Jednotka je $1\,\mathrm{Ampér}$ ($1\,\mathrm{A}$).
 
 ### Elektrický prúd podľa hodiny 4
 
