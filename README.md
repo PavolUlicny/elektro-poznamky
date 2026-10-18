@@ -17,6 +17,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Hodina 4: Prúdová hustota a elektrický prúd](hodiny/hodina4.md)
 - [Hodina 5: Merný odpor, merná vodivosť](hodiny/hodina5.md)
 - [Hodina 6: Ohmov zákon a elektrická vodivosť](hodiny/hodina6.md)
+- [Hodina 7: Závislosť odporu od teploty a supravodivosť](hodiny/hodina7.md)
 
 ## Učivo
 
@@ -27,6 +28,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Prúdová hustota](ucivo/05-prudova-hustota.md)
 - [Merný odpor a merná vodivosť](ucivo/06-merny-odpor-a-merna-vodivost.md)
 - [Ohmov zákon a elektrická vodivosť](ucivo/07-ohmov-zakon-a-elektricka-vodivost.md)
+- [Závislosť odporu od teploty a supravodivosť](ucivo/08-zavislost-odporu-od-teploty-a-supravodivost.md)
 
 Nový neupravený súbor pridaj do koreňa repozitára a požiadaj agenta, aby spracoval novú hodinu podľa [AGENTS.md](AGENTS.md). Agent najprv uloží nezmenenú zálohu, potom pripraví verziu v `hodiny/` a doplní `ucivo/`.
 
