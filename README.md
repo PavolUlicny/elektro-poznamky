@@ -19,6 +19,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Hodina 6: Ohmov zákon a elektrická vodivosť](hodiny/hodina6.md)
 - [Hodina 7: Závislosť odporu od teploty a supravodivosť](hodiny/hodina7.md)
 - [Hodina 8: Práca a výkon jednosmerného prúdu](hodiny/hodina8.md)
+- [Hodina 9: Účinnosť](hodiny/hodina9.md)
 
 ## Učivo
 
@@ -31,6 +32,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Ohmov zákon a elektrická vodivosť](ucivo/07-ohmov-zakon-a-elektricka-vodivost.md)
 - [Závislosť odporu od teploty a supravodivosť](ucivo/08-zavislost-odporu-od-teploty-a-supravodivost.md)
 - [Práca a výkon jednosmerného prúdu](ucivo/09-praca-a-vykon-jednosmerneho-prudu.md)
+- [Účinnosť](ucivo/10-ucinnost.md)
 
 Nový neupravený súbor pridaj do koreňa repozitára a požiadaj agenta, aby spracoval novú hodinu podľa [AGENTS.md](AGENTS.md). Agent najprv uloží nezmenenú zálohu, potom pripraví verziu v `hodiny/` a doplní `ucivo/`.
 
