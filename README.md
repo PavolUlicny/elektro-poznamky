@@ -21,6 +21,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Hodina 8: Práca a výkon jednosmerného prúdu](hodiny/hodina8.md)
 - [Hodina 9: Účinnosť](hodiny/hodina9.md)
 - [Hodina 10: Napájacie zdroje](hodiny/hodina10.md)
+- [Hodina 11: Prúdový zdroj](hodiny/hodina11.md)
 
 ## Učivo
 

@@ -1,6 +1,6 @@
 # Napájacie zdroje
 
-Zdroj: [hodina 10](../hodiny/hodina10.md)
+Zdroje: [hodina 10](../hodiny/hodina10.md), [hodina 11](../hodiny/hodina11.md)
 
 Napájací zdroj je zariadenie, ktoré trvalo dodáva do záťaže (spotrebiča) elektrickú energiu.
 
@@ -53,3 +53,21 @@ Reálny napäťový zdroj môže byť lineárny, jeho grafom je priamka.
 Nelineárny, jeho grafom je krivka.
 
 ![Voltampérová charakteristika](../obrazky/hodina10/voltamperova-charakteristika.png)
+
+## Prúdový zdroj
+
+Zdroj: [hodina 11](../hodiny/hodina11.md)
+
+### Ideálny prúdový zdroj
+
+Má nekonečne veľký vnútorný odpor.
+
+Prúd dodávaný do záťaže sa rovná prúdu, ktorý dodáva zdroj.
+
+### Reálny prúdový zdroj
+
+Pri prúdovom zdroji sa jeho vnútorný odpor počíta tak, ako keby bol pripojený paralelne.
+
+![Prúdový zdroj s vnútorným odporom a záťažou](../obrazky/hodina11/prudovy-zdroj.png)
+
+Prúdový zdroj má veľký vnútorný odpor a drží takmer konštantný prúd aj pri veľkej zmene odporu záťaže. Taký zdroj sa volá tvrdý zdroj.
