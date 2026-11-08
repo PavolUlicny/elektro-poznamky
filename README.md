@@ -22,6 +22,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Hodina 9: Účinnosť](hodiny/hodina9.md)
 - [Hodina 10: Napájacie zdroje](hodiny/hodina10.md)
 - [Hodina 11: Prúdový zdroj](hodiny/hodina11.md)
+- [Hodina 12: Kirchhoffove zákony](hodiny/hodina12.md)
 
 ## Učivo
 
@@ -36,6 +37,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Práca a výkon jednosmerného prúdu](ucivo/09-praca-a-vykon-jednosmerneho-prudu.md)
 - [Účinnosť](ucivo/10-ucinnost.md)
 - [Napájacie zdroje](ucivo/11-napajacie-zdroje.md)
+- [Kirchhoffove zákony](ucivo/12-kirchhoffove-zakony.md)
 
 Nový neupravený súbor pridaj do koreňa repozitára a požiadaj agenta, aby spracoval novú hodinu podľa [AGENTS.md](AGENTS.md). Agent najprv uloží nezmenenú zálohu, potom pripraví verziu v `hodiny/` a doplní `ucivo/`.
 
