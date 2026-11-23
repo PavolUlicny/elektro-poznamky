@@ -21,7 +21,7 @@ Hodnota odporu sa nastavuje skrutkovačom alebo napríklad mincou.
 
 ## Určenie hodnoty rezistora
 
-- Výpočtom podľa vzorca $R = \rho \cdot \frac{l}{S}$, kde $\rho$ je merný odpor.
+- Výpočtom podľa vzorca $R = \rho \cdot \frac{l}{S}$, kde $\rho$ je merný odpor. Rovnaký vzorec uvádza aj [hodina 5](../hodiny/hodina5.md).
 - Pomocou pásikov.
 - Ohmmetrom.
 
