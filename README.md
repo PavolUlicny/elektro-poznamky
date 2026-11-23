@@ -24,6 +24,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Hodina 11: Prúdový zdroj](hodiny/hodina11.md)
 - [Hodina 12: Kirchhoffove zákony](hodiny/hodina12.md)
 - [Hodina 13: Rezistory](hodiny/hodina13.md)
+- [Hodina 14: Sériové a paralelné zapojenie rezistorov](hodiny/hodina14.md)
 
 ## Učivo
 
@@ -40,6 +41,7 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Napájacie zdroje](ucivo/11-napajacie-zdroje.md)
 - [Kirchhoffove zákony](ucivo/12-kirchhoffove-zakony.md)
 - [Rezistory](ucivo/13-rezistory.md)
+- [Sériové a paralelné zapojenie rezistorov](ucivo/14-zapojenie-rezistorov.md)
 
 ## Príklady ku Kirchhoffovým zákonom
 
