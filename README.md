@@ -39,6 +39,11 @@ Zápisky sú usporiadané tak, aby sa dali pridávať ďalšie hodiny bez straty
 - [Napájacie zdroje](ucivo/11-napajacie-zdroje.md)
 - [Kirchhoffove zákony](ucivo/12-kirchhoffove-zakony.md)
 
+## Príklady ku Kirchhoffovým zákonom
+
+- Hodina 12: [výpočet](priklady/priklady_hodina12.txt), [schéma](obrazky/hodina12/kirchhoffove-zakony-priklad.png)
+- Hodina 13: [výpočty](priklady/priklady_hodina13.txt), [schéma k príkladu 1](obrazky/hodina13/kirchhoffove-zakony-priklad-1.png), [schéma k príkladu 2](obrazky/hodina13/kirchhoffove-zakony-priklad-2.png)
+
 Nový neupravený súbor pridaj do koreňa repozitára a požiadaj agenta, aby spracoval novú hodinu podľa [AGENTS.md](AGENTS.md). Agent najprv uloží nezmenenú zálohu, potom pripraví verziu v `hodiny/` a doplní `ucivo/`.
 
 Samostatné príkladové textové súbory patria iba do `priklady/` v koreni repozitára. Ich obsah zostáva nezmenený a nezapracúva sa do poznámok ani učiva.
